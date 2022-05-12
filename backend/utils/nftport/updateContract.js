@@ -69,7 +69,7 @@
       break;
     case "presale_whitelisted_addresses":
       const addresses_add = PRESALE_WHITELISTED_ADDRESSES.map((address) =>
-        address.toLowerCase()
+       address.toLowerCase()
       );
       const existingAddresses = await getWhiteList();
       contract.presale_whitelisted_addresses = [
