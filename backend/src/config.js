@@ -38,7 +38,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://cosmicspiritguides.com", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -54,7 +54,7 @@ const CONTRACT_SYMBOL = 'CSGT';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0x6e1163f18bB996c51Ef27Fddbc07Fba255597f1F';
 const TREASURY_ADDRESS = '0x6e1163f18bB996c51Ef27Fddbc07Fba255597f1F';
-const MAX_SUPPLY = 1008; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 108; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.08; // Minting price per NFT. Rinkeby = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
@@ -95,7 +95,7 @@ try {
 const solanaMetadata = {
   symbol: "YC",
   seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
-  external_url: "https://www.youtube.com/c/hashlipsnft",
+  external_url: "https://cosmicspiritgides.com",
   creators: [
     {
       address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
