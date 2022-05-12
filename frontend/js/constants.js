@@ -1,7 +1,7 @@
 const contractAddress = "0x31c11F0F4CC78451b8F361ea9cc17Bb52AF98d2e"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Cosmic Spirit Guides NFT Project!!";
+const welcome_h1 = "Welcome to the Cosmic Spirit Guides NFT Project";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The Cosmic Spirit Guides NFT Project is a decentralized project that aims to grow a community that grows, learns and builds together in the Web 3 space';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";

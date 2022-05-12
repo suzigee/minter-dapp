@@ -125,7 +125,7 @@ header .container {
 }
 
 .wallet-btn {
-  border-radius: 5rem;
+  border-radius: 1rem;
   margin-left: 2rem;
   border-color: transparent;
 }
@@ -325,7 +325,7 @@ section {
 
 .splide__slide {
   border: var(--accent-color) solid;
-  border-width: 5px 10px;
+  border-width: 1px 1px;
 }
 
 .splide__slide img {
