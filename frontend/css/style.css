@@ -6,10 +6,10 @@
 
 :root {
   --font-primary: "Poppins", sans-serif;
-  --font-secondary: "Arvo", serif;
-  --font-code: "Roboto", monospace;
-  --bg-color: #00163f;
-  --bg-color-transparent: #00163f80;
+  --font-secondary: "Poppins", sans-serif;
+  --font-code: "Poppins", sans-serif;
+  --bg-color: #000000;
+  --bg-color-transparent: #00163f00;
   --font-color: #ffffff;
   --btn-bg-color: #ffffff;
   --accent-color: #be7efe;
@@ -125,8 +125,8 @@ header .container {
 }
 
 .wallet-btn {
-  border-radius: 1rem;
-  margin-left: 1rem;
+  border-radius: 0rem;
+  margin-left: 0rem;
   border-color: transparent;
 }
 
@@ -325,7 +325,7 @@ section {
 
 .splide__slide {
   border: var(--accent-color) solid;
-  border-width: 1px 1px;
+  border-width: 0px 0px;
 }
 
 .splide__slide img {
